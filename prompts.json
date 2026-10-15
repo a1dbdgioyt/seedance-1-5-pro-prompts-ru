@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "01-product-ad-ceramic-mug",
+    "prompt": "Slow 180° orbit around a matte ceramic mug on a dark stone plinth, steam rising, soft key light from camera left, shallow depth of field, product commercial",
+    "category": "Product ad",
+    "duration": "5s",
+    "model": "seedance-1.5-pro",
+    "cost_estimate": "$0.0104"
+  },
+  {
+    "slug": "02-cinematic-rainy-street",
+    "prompt": "Rain soaked street at night, camera pushes in slowly past neon reflections, a lone figure with an umbrella walks away from camera, 35mm anamorphic, film grain",
+    "category": "Cinematic",
+    "duration": "5s",
+    "model": "seedance-1.5-pro",
+    "cost_estimate": "$0.0104"
+  },
+  {
+    "slug": "03-food-ad-steam",
+    "prompt": "Overhead view tilting down to 45° onto a steaming bowl of ramen, chopsticks lift the noodles, warm practical light, macro detail, appetising commercial grade",
+    "category": "Food commercial",
+    "duration": "5s",
+    "model": "seedance-1.5-pro",
+    "cost_estimate": "$0.0104"
+  },
+  {
+    "slug": "04-architecture-flythrough",
+    "prompt": "Slow aerial flythrough of a concrete villa at dusk, camera pushes across the infinity pool toward warm interior light, 24mm, ultra sharp",
+    "category": "Architecture",
+    "duration": "5s",
+    "model": "seedance-1.5-pro",
+    "cost_estimate": "$0.0104"
+  }
+]
